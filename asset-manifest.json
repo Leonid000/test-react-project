@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Leonid000/test-react-project/static/css/main.1a7ab269.css",
+    "main.js": "/Leonid000/test-react-project/static/js/main.f2e87fd4.js",
+    "static/css/905.d4c5f78f.chunk.css": "/Leonid000/test-react-project/static/css/905.d4c5f78f.chunk.css",
+    "static/js/905.7abf184f.chunk.js": "/Leonid000/test-react-project/static/js/905.7abf184f.chunk.js",
+    "static/media/avatar.png": "/Leonid000/test-react-project/static/media/avatar.cc1b24dff177f495e6b2.png",
+    "static/media/Loader2.gif": "/Leonid000/test-react-project/static/media/Loader2.816e2b9b9cf8e61a5db0.gif",
+    "static/media/coca-colla.png": "/Leonid000/test-react-project/static/media/coca-colla.9c783abb548d189110bb.png",
+    "index.html": "/Leonid000/test-react-project/index.html",
+    "main.1a7ab269.css.map": "/Leonid000/test-react-project/static/css/main.1a7ab269.css.map",
+    "main.f2e87fd4.js.map": "/Leonid000/test-react-project/static/js/main.f2e87fd4.js.map",
+    "905.d4c5f78f.chunk.css.map": "/Leonid000/test-react-project/static/css/905.d4c5f78f.chunk.css.map",
+    "905.7abf184f.chunk.js.map": "/Leonid000/test-react-project/static/js/905.7abf184f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a7ab269.css",
+    "static/js/main.f2e87fd4.js"
+  ]
+}
