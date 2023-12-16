@@ -11,7 +11,7 @@ import LoginReducer from "./Login-Reducer";
 import appReducer from "./App-Reducer";
 
 
-
+let help = []
 let redusers = combineReducers({ 
     profilePage: profileReducer,
     dialogPage: dialogReducer,
