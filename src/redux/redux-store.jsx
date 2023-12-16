@@ -12,6 +12,7 @@ import appReducer from "./App-Reducer";
 
 
 let help = []
+let help2 = 2;
 let redusers = combineReducers({ 
     profilePage: profileReducer,
     dialogPage: dialogReducer,
