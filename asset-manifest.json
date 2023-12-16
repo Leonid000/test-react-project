@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-react-project/static/css/main.1a7ab269.css",
-    "main.js": "/test-react-project/static/js/main.f8af9068.js",
+    "main.js": "/test-react-project/static/js/main.982c1f9a.js",
     "static/css/905.d4c5f78f.chunk.css": "/test-react-project/static/css/905.d4c5f78f.chunk.css",
     "static/js/905.7abf184f.chunk.js": "/test-react-project/static/js/905.7abf184f.chunk.js",
     "static/media/avatar.png": "/test-react-project/static/media/avatar.cc1b24dff177f495e6b2.png",
@@ -9,12 +9,12 @@
     "static/media/coca-colla.png": "/test-react-project/static/media/coca-colla.9c783abb548d189110bb.png",
     "index.html": "/test-react-project/index.html",
     "main.1a7ab269.css.map": "/test-react-project/static/css/main.1a7ab269.css.map",
-    "main.f8af9068.js.map": "/test-react-project/static/js/main.f8af9068.js.map",
+    "main.982c1f9a.js.map": "/test-react-project/static/js/main.982c1f9a.js.map",
     "905.d4c5f78f.chunk.css.map": "/test-react-project/static/css/905.d4c5f78f.chunk.css.map",
     "905.7abf184f.chunk.js.map": "/test-react-project/static/js/905.7abf184f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a7ab269.css",
-    "static/js/main.f8af9068.js"
+    "static/js/main.982c1f9a.js"
   ]
 }
