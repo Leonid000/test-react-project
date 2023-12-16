@@ -1,0 +1,99 @@
+.find_users_wrapper {
+
+.find_users_header {
+    text-align: left;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Staatliches', cursive;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    background-color: rgb(213, 213, 213);
+}
+
+.find_user_pages {
+    display: flex;
+    margin-top: 5px;
+}
+.find_user_pages div {
+    padding: 0px 5px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 0px 10px;
+    border-radius: 5px;
+    background-color: rgb(169, 169, 169);
+    transition: background-color 0.2s ease-out;
+}
+.find_user_pages .find_user_currentPage {
+    background-color: rgb(166, 100, 100);
+    transition: background-color 0.2s ease-out;
+
+}
+
+
+
+.user_list {
+ width: 100%;
+ position: relative;
+
+ 
+}
+.user_item {
+    width: 80%;
+    height: 150px;
+    position: relative;
+    margin-left: 30px;
+    margin-top: 30px;
+    display: flex;
+    
+}
+.user_item img {
+    width: 100px;
+    margin-bottom: 10px;
+}
+.user_item button {
+    font-family: 'Staatliches', cursive;
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(112, 112, 112);
+    padding: 0px 20px;
+    border-radius: 20px;
+    transition: background-color 0.2s ease-out,
+    width 0,4s ease-out ;
+    
+}
+.user_item button.button_unfollow {
+    background-color: rgb(170, 90, 90);
+}
+.user_item button.button_follow {
+    background-color: rgb(112, 112, 112);
+}
+.user_item button.button_disabled {
+    color: inherit;
+    background-color: rgb(255, 255, 255);
+}
+
+.user_item_logo {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.user_item_container {
+    -webkit-box-shadow: 0px 5px 16px 2px rgba(34, 60, 80, 0.2) inset;
+    -moz-box-shadow: 0px 5px 16px 2px rgba(34, 60, 80, 0.2) inset;
+    box-shadow: 0px 5px 16px 2px rgba(34, 60, 80, 0.2) inset;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 40px;
+    padding: 20px;
+
+}
+.user_friend {
+    font-weight: 500;
+    font-size: 15px;
+}
+
+
+
+}

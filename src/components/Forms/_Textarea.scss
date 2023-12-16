@@ -1,0 +1,64 @@
+.form_control {
+    position: relative;
+}
+
+.form_control .span_1 {
+    position: absolute;
+    left: 200px;
+    color: red;
+    font-weight: 600;
+    display: none;
+}
+.form_control .span_2 {
+    position: absolute;
+    left: 200px;
+    color: red;
+    font-weight: 600;
+    display: none;
+    
+}
+.form_control.error textarea{
+    border: 2px solid rgb(208, 35, 35);
+}
+.form_control.error .span_1 {
+    display: block;
+}
+.form_control.to .span_2 {
+    display: block;
+}
+.form_control.to textarea{
+    border: 2px solid rgb(208, 35, 35);
+}
+
+
+.textarea_app {
+    border-radius: 10px;
+    padding: 5px;
+    height: 100px;
+    resize: none;
+}
+
+
+.form_control_input {
+    position: relative;
+}
+.form_control_input .span_1 {
+    position: absolute;
+    left: 180px;
+    color: red;
+    font-weight: 700;
+    display: none;
+}
+.form_control_input.error .span_1 {
+    display: block;
+}
+
+.form_common_error {
+    border: 1px solid red;
+    padding: 5px;
+    display: inline-block;
+    width: 300px;
+    font-weight: 600;
+    border-radius: 10px;
+    padding-left: 20px;
+}

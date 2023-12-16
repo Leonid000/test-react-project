@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app_content {
+    grid-area: c;
+    position: relative;
+    width: 100%;
+    background-color: rgb(246, 245, 245);
+}

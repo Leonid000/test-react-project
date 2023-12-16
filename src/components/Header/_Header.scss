@@ -1,0 +1,37 @@
+.header {
+    grid-area: h;
+    background-color: rgb(213, 213, 213);
+    padding: 10px;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    -webkit-box-shadow: -1px 11px 8px -9px rgba(34, 60, 80, 0.41);
+    -moz-box-shadow: -1px 11px 8px -9px rgba(34, 60, 80, 0.41);
+    box-shadow: -1px 11px 8px -9px rgba(34, 60, 80, 0.41);
+
+
+
+
+.header_login {
+    width: 200px;
+    height: 100%;
+    border: 3px solid rgb(164, 164, 164);
+    border-radius: 20px;
+    margin-right: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+}
+
+
+
+.img_coca {
+    width: 200px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 70px;
+}
